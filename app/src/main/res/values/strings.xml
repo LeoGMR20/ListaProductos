@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ListaProductos</string>
+    <string name="txtNombre">Nombre</string>
+    <string name="txtProcesar">Procesar</string>
+</resources>
